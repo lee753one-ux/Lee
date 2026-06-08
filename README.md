@@ -41,13 +41,6 @@
 - **适用：** 所有 AI Agent（通过 Memory API）
 - **链接：** [github.com/supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
 
-### 8. Presenton ⭐8.0K
-- **用途：** AI 演示文稿生成器（Gamma / Beautiful AI 的开源替代）
-- **适用：** 桌面端（Windows / Mac / Linux）或 Docker 自部署
-- **链接：** [github.com/presenton/presenton](https://github.com/presenton/presenton)
-- **下载：** [Presenton-0.8.6-beta.exe](https://github.com/presenton/presenton/releases/download/electron-v0.8.6-beta/Presenton-0.8.6-beta.exe)
-- **状态：** ✅ 已下载
-
 ---
 
 ## 说明
