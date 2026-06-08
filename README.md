@@ -8,12 +8,12 @@
 
 ### 1. markitdown (Microsoft)
 - **用途：** 文档转 Markdown。支持 Word、PPT、Excel、PDF、HTML 等格式
-- **适用：** 所有 AI Agent（Hermes / Claude Code / OpenCode 等）
+- **适用：** 所有 AI Agent
 - **链接：** [github.com/microsoft/markitdown](https://github.com/microsoft/markitdown)
 
 ### 2. headroom
 - **用途：** 压缩工具输出和日志，减少 60%-95% 的 Token 消耗，答案质量不变
-- **适用：** 支持 MCP 的 AI Agent（Claude Code / OpenCode 等）
+- **适用：** 支持 MCP 的 AI Agent
 - **链接：** [github.com/chopratejas/headroom](https://github.com/chopratejas/headroom)
 
 ### 3. ECC
@@ -33,13 +33,19 @@
 
 ### 6. taste-skill ⭐38.0K
 - **用途：** 提升 AI 的审美和输出质量，避免生成枯燥、同质化的内容
-- **适用：** 所有 AI Agent（加载后即可生效）
+- **适用：** 所有 AI Agent
 - **链接：** [github.com/Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
 
-### 7. supermemory (claude-mem) ⭐81.2K
+### 7. supermemory ⭐26.1K
 - **用途：** AI 持久记忆引擎，跨会话保存上下文，解决 Agent 遗忘问题
-- **适用：** Claude Code（有专门的 claude-mem 插件）
-- **链接：** [github.com/thedotmack/claude-mem](https://github.com/thedotmack/claude-mem)
+- **适用：** 所有 AI Agent（通过 Memory API）
+- **链接：** [github.com/supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+
+### 8. Presenton ⭐8.0K
+- **用途：** AI 演示文稿生成器（Gamma / Beautiful AI 的开源替代）
+- **适用：** 桌面端（Windows / Mac / Linux）或 Docker 自部署
+- **链接：** [github.com/presenton/presenton](https://github.com/presenton/presenton)
+- **下载：** [Presenton-0.8.6-beta.exe](https://github.com/presenton/presenton/releases/download/electron-v0.8.6-beta/Presenton-0.8.6-beta.exe)
 
 ---
 
