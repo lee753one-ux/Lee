@@ -46,6 +46,7 @@
 - **适用：** 桌面端（Windows / Mac / Linux）或 Docker 自部署
 - **链接：** [github.com/presenton/presenton](https://github.com/presenton/presenton)
 - **下载：** [Presenton-0.8.6-beta.exe](https://github.com/presenton/presenton/releases/download/electron-v0.8.6-beta/Presenton-0.8.6-beta.exe)
+- **状态：** ✅ 已下载
 
 ---
 
